@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Cybot project"
 date:   2020-12-09 09:00:00 +0100
 categories: projects robots robotics arduino
