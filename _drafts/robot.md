@@ -6,10 +6,10 @@ categories: projects robots robotics arduino
 excerpt: "For many year I try to hook up a robot toy with Arduino. Now I've created a nice software architecture to do it." 
 ---
 
-![Cybot](/assets/images/open_cybot.jpg)
-
 # TLDR;
 I added an Arduino powered microcontroller to an old robot toy. I created a nice reusable _Sense-Think-Act_ architecture in the process. You can find the code [here](https://github.com/ychevalier/SonarCybot/).
+
+![Cybot](/assets/images/open_cybot.jpg)
 
 # The Story
 Ok, so this has been by far my longest project. I started building this robot in 2002, when I was 12. It's not like I knew electronics, coding or anything back then, I just happened to stumble upon a monthly publication, the ones where you get parts of a product and that are really cheap for the first few issues and then get quite expensive and last a really long time before you get the actual, complete, advertised product (?). 
