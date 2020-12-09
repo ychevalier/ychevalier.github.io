@@ -3,6 +3,5 @@ layout: single
 title:  "Welcome to my blog!"
 date:   2020-11-24 17:43:00 +0100
 categories: misc
-author_profile: true
 ---
 Welcome to my blog! I'd like to talk about some projects that are either undergoing or I'd like to tackle.

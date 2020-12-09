@@ -3,7 +3,6 @@ layout: single
 title:  "Cybot project"
 date: 2020-12-09 09:00:00 +0100
 categories: projects robots robotics arduino
-author_profile: true
 excerpt: "For many year I try to hook up a robot toy with Arduino. Now I've created a nice software architecture to do it." 
 ---
 
