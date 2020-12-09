@@ -96,7 +96,7 @@ analytics:
 author:
   name: "Yann Chevalier"
   avatar: "/assets/images/me_bike.jpg"
-  bio: "I am a software engineer that like to make stuff move, tinker and generally learn new things." # Note: Markdown is allowed
+  bio: "I am a software engineer who likes to make stuff move, tinker and generally learn new things." # Note: Markdown is allowed
   location: "Nantes, France"
   links:
     - label: "Twitter"
