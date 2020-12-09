@@ -1,14 +1,15 @@
 ---
 layout: single
 title:  "Cybot project"
-date:   2020-12-09 09:00:00 +0100
+date: 2020-12-09 09:00:00 +0100
 categories: projects robots robotics arduino
-tag: projects robots robotics arduino
+author_profile: true
+excerpt: "For many year I try to hook up a robot toy with Arduino. Now I've created a nice software architecture to do it." 
 ---
 
 # Cybot Project 
+![Cybot](/assets/images/open_cybot.jpg)
 
-![Cybot](/assets/open_cybot.jpg)
 
 ## TLDR;
 I added an Arduino powered microcontroller to an old robot toy. I created a nice reusable _Sense-Think-Act_ architecture in the process. You can find the code [here](https://github.com/ychevalier/SonarCybot/).

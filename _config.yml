@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yann's personal blog
+title: Stuff I'd like to say
 # email: yann.m.chevalier@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog should be used to talk about stuff that I do.
@@ -34,7 +34,41 @@ remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  # - github-pages
+
+author:
+  name: "Yann Chevalier"
+  avatar: "/assets/images/me_bike.jpg"
+  bio: "This is a blog that I plan to use to talk about stuff that I do, stuff I find interesting, in more depth that what I'll say on tweeter." # Note: Markdown is allowed
+  location: "Nantes, France"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/yannchev"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ychevalier"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true # Somehow this does not work, need to be included in every post.
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
