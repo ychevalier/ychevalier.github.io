@@ -3,7 +3,8 @@ layout: single
 title:  "Vibrobots"
 date:   2021-01-18 09:00:00 +0100
 categories: projects robots robotics kids
-excerpt: "Building the simplest robots." 
+excerpt: "Building the simplest robots with my kids." 
+image: /assets/images/brushbot.gif
 ---
 
 Recently I spent some times with my kids building various vibrating robots. I first got the idea from a book I found at the public library.
